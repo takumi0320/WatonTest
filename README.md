@@ -14,8 +14,9 @@
 
 ※Watson側はbluemixを使用
 
-●使用言語
-php、HTML、javascript、css
+●使用言語・技術
+
+php、HTML、javascript、css、Google Cloud Speech API、Watson、ajax
 
 ●研究成果	
 
